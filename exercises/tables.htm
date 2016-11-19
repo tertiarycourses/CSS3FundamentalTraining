@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HTML Tables</title>
+<link href="_css/styles2.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>HTML: Building Tables</h1>
+<h2>Basic table structure</h2>
+<p>In this exercise we&rsquo;ll explore the basics of using tables in HTML. Tables in HTML are designed to allow authors to structure data within rows and columns. While early web designers often abused tables by using them to control the layout of forms and pages, they were never really designed for that task, and should only be used to display tabular data. Tables can contain a wide variety of content including text, paragraphs, preformatted text, images, video, forms, and even other tables.</p>
+<p>The basic structural elements of tables are the <b>&lt;table&gt;</b>,<b> &lt;tr&gt;</b>, <b>&lt;th&gt;</b>, and <b>&lt;td&gt;</b> tags. At the beginning of each table you&rsquo;ll use a &lt;table&gt; tag, which will wrap around the entire table. From there, you begin a row with a table row tag &lt;tr&gt;. Rows are populated with either a table header tag &lt;th&gt; or a table data tag &lt;td&gt;. Table headers represent header cells, while table data elements represent regular table cells.</p>
+<h2>Sample table</h2>
+<p>The following code:</p>
+<pre>
+<code>
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Cell 1, Row 1&lt;/td&gt;
+    &lt;td&gt;Cell 2, Row 1&lt;/td&gt;
+    &lt;td&gt;Cell 3, Row 1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Cell 1, Row 2&lt;/td&gt;
+    &lt;td&gt;Cell 2, Row 2&lt;/td&gt;
+    &lt;td&gt;Cell 3, Row 2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Cell 1, Row 3&lt;/td&gt;
+    &lt;td&gt;Cell 2, Row 3&lt;/td&gt;
+    &lt;td&gt;Cell 3, Row 3&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</code>
+</pre>
+<p>Would create the resulting table</p>
+<!--create table here-->
+<table>
+  <tr>
+    <td>Cell 1, Row 1</td>
+    <td>Cell 2, Row 1</td>
+    <td>Cell 3, Row 1</td>
+  </tr>
+  <tr>
+    <td>Cell 1, Row 2</td>
+    <td>Cell 2, Row 2</td>
+    <td>Cell 3, Row 2</td>
+  </tr>
+  <tr>
+    <td>Cell 1, Row 3</td>
+    <td>Cell 2, Row 3</td>
+    <td>Cell 3, Row 3</td>
+  </tr>
+</table>
+</body>
+</html>
