@@ -1,0 +1,133 @@
+/*color & font*/
+
+.color {
+	color: rgb(255,0,0);
+}
+
+body {
+	font-family: 'Helvetica Neue',Arial, sans-serif;
+	font-size: 14px;
+}
+
+.header-bg {
+	height:600px;
+	/*width: 100%;*/
+	background-image: url(https://unsplash.it/1000?image=1073);	
+	/*background-repeat:  repeat;*/
+	/*background-position: right left;*/
+	background-size: cover;
+	opacity: 0.8;
+}
+.header-alpha {
+	height: 200px;
+	color: white;
+	/*background: rgba(0,0,0,0.3);*/
+	text-align: center;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.newfont {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.em {
+	font-size: 28px;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+.box1 {
+	width: 50px 	;
+	height: 20px;
+	border: 2px solid red;
+	text-align: center;
+}
+
+.box2 {
+	width: 50px 	;
+	height: 20px;
+	border: 2px solid red;
+	text-align: center;
+	display: inline-block;
+}
+
+.box3 {
+	width: 50px 	;
+	height: 20px;
+	border: 2px solid red;
+	text-align: center;
+	float: right;
+}
+
+section {
+	width: 500px;
+	margin: 0 auto;
+}
+
+
+.box4 {
+	width: 50px 	;
+	height: 20px;
+	border: 2px solid red;
+	text-align: center;
+	display: inline-block;
+	background: red;
+}
+
+.relative {
+	position: relative;
+	top: 50px;
+	left: 200px;
+}
+
+.absolute {
+	position: absolute;
+	top: 50px;
+}
+
+.fixed {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+.static {
+	position: static;
+	top: 100px;
+
+}
+
+.block1 {
+	height: 300px;
+	width: 300px;
+	background: pink;
+	position: relative;
+	z-index: 100;
+}
+
+.block2 {
+	height: 300px;
+	width: 300px;
+	background: blue;
+	margin-top: -200px;
+	margin-left: 100px;
+	position: relative;
+	z-index: 200;
+}
+
+.block3 {
+	height: 300px;
+	width: 300px;
+	background: cyan;
+	margin-top: -200px;
+	margin-left: 200px;
+	position: relative;
+	z-index: 10;
+
+}
+
+

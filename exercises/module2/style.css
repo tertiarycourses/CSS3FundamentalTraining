@@ -1,0 +1,55 @@
+/*p {
+	color: blue;
+}*/
+
+/*.highlight {
+	background: yellow;
+}
+
+#highlight {
+	background: grey;
+}*/
+
+/* Decendent Selector */
+
+section h1 {
+	color: red;
+}
+
+/*Child Combinator */
+
+section > h2 {
+	color: red;
+}
+
+/*Sibling Selector */
+
+/*section h2 + p {
+	color: blue;
+}
+*/
+
+section h2 ~ p {
+	color: blue;
+}
+
+/*Grouping Selector*/
+
+h1, h2 {
+	font-size: 40px;
+}
+
+/*Chaining Multiple Selectors*/
+/*.red {
+	color: red;
+}*/
+
+.big {
+	font-size: 30px;
+}
+
+.big.red {
+	color: red;
+}
+
+
