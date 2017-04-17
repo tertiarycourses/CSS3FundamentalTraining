@@ -12,9 +12,7 @@ https://www.tertiarycourses.com.sg/css3-fundamentals-training.html
 <li>What is CSS?&nbsp;</li>
 <li>Default Browser Style</li>
 <li>CSS Syntax</li>
-<li>Authoring Options&nbsp;</li>
-<li>How browsers apply styles</li>
-<li>Browser rendering differences</li>
+<li>CSS Style Locations</li>
 </ul>
 <p><strong>Module 2. CSS Selectors</strong></p>
 <ul>
@@ -22,56 +20,37 @@ https://www.tertiarycourses.com.sg/css3-fundamentals-training.html
 <li>Class Selector</li>
 <li>ID Selector</li>
 <li>Descendent Selector</li>
-<li>Grouping Selector</li>
-<li>Attribute Selector</li>
-<li>Pseudo Class</li>
+<li>Combining Selectors</li>
+<li>Grouping Multiple Selectors</li>
 </ul>
-<p><strong>Module 3. CSS Properties</strong></p>
+<p><strong>Module 3. Pseudo Class and Element Selectors</strong></p>
 <ul>
-<li>Color</li>
-<li>Background</li>
-<li>Border</li>
-<li>Padding</li>
-<li>Margin</li>
-<li>Box Model</li>
+<li>What is Pseudo Class Selectors?</li>
+<li>Pseudo Class Selectors for Links and Form</li>
+<li>Before and After Pseudo Class Selectors</li>
+<li>Nth Child Selectors</li>
+</ul>
+<p><strong>Module 4. CSS Properties</strong></p>
+<ul>
+<li>Color &amp; Background</li>
+<li>Font &amp; Text</li>
+<li>The Box Model</li>
+<li>Display, Float &amp; Position</li>
 <li>Table</li>
-<li>Fonts</li>
-<li>Text</li>
-<li>Algin</li>
-<li>Float</li>
-<li>Position</li>
-<li>Opacity</li>
 <li>Lists</li>
 <li>Links</li>
-<li>Forms</li>
-<li>Display</li>
 </ul>
-<p><strong>Module 4. CSS3 Properties</strong></p>
+<p><strong>Module 5. CSS3 Properties</strong></p>
 <ul>
-<li>CSS3 Rounded Corners</li>
-<li>CSS3 Background</li>
-<li>CSS3 Colors</li>
-<li>CSS3 Shadows</li>
-<li>CSS3 Gradients</li>
-<li>CSS3 Text</li>
-<li>CSS3 Font</li>
-<li>CSS3 Buttons</li>
-<li>CSS3 Media Queries</li>
-<li>CSS3 Video</li>
-<li>CSS3 SVG</li>
-<li>CSS3 Media Queries</li>
+<li>Responsive Web Page</li>
+<li>View Port &amp; Media Queries</li>
+<li>Gradients</li>
+<li>Rounded Corners</li>
+<li>Shadows</li>
+<li>Text</li>
 </ul>
-<p><strong>Module 5. CSS3 Animation</strong></p>
+<p><strong>Module 6. Introduction to CSS3 Frameworks</strong></p>
 <ul>
-<li>2D Transform</li>
-<li>3D Transform</li>
-<li>Transition</li>
-<li>Animations</li>
-</ul>
-<p><strong>Module 6. CSS3 Frameworks</strong></p>
-<ul>
-<li>Introducing to Frameworks</li>
-<li>Choose a Framework</li>
-<li>Setup Framework</li>
-<li>Work with Grids</li>
+<li>Bootstrap</li>
+<li>Foundation</li>
 </ul>
