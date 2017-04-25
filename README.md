@@ -1,5 +1,5 @@
 # CSS3 Fundamentals Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [CSS3 Fundamentals Training](https://www.tertiarycourses.com.sg/css3-fundamentals-training.html) course. 
 
